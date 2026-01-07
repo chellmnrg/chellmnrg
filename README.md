@@ -46,19 +46,17 @@ Berikut adalah teknologi dan tools yang biasa saya gunakan:
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
 </p>
 
----
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[username-github-anda]&show_icons=true&theme=midnight-purple&hide_border=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=chellmnrg&show_icons=true&theme=midnight-purple&hide_border=true" height="150" alt="GitHub Stats" />
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[username-github-anda]&theme=midnight-purple&hide_border=true" height="150" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chellmnrg&theme=midnight-purple&hide_border=true" height="150" alt="Streak Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[username-github-anda]&layout=compact&theme=midnight-purple&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chellmnrg&layout=compact&theme=midnight-purple&hide_border=true" alt="Top Languages" />
 </p>
----
 
 <p align="center">Thanks for visiting! Feel free to connect.</p>
