@@ -16,8 +16,8 @@
 
 Saya adalah seorang **Junior Full Stack Developer** yang berfokus pada pengembangan aplikasi web yang efisien dan skalabel. Saya senang mempelajari teknologi baru dan memecahkan masalah melalui kode.
 
-- 🔭 I’m currently working on **[PT. Edvisor Prime Solution]**
-- 🌱 I’m currently learning **[Dotnet Framewotk]**
+- 🔭 I’m currently working on **PT. Edvisor Prime Solution**
+- 🌱 I’m currently learning **Dotnet Framewotk**
 - 💬 Ask me about **.NET, C#, SQL, & Web Development**
 ---
 
