@@ -51,13 +51,12 @@ Berikut adalah teknologi dan tools yang biasa saya gunakan:
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chellmnrg&show_icons=true&theme=midnight-purple&hide_border=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.demolab.com/?user=chellmnrg&theme=midnight-purple&hide_border=true" height="150" alt="Streak Stats" />
-</p>
+### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chellmnrg&layout=compact&theme=midnight-purple&hide_border=true" alt="Top Languages" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chellmnrg&show_icons=true&theme=midnight-purple&hide_border=true)
+
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=chellmnrg&theme=midnight-purple&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chellmnrg&layout=compact&theme=midnight-purple&hide_border=true)
 
 <p align="center">Thanks for visiting! Feel free to connect.</p>
