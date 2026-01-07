@@ -49,14 +49,6 @@ Berikut adalah teknologi dan tools yang biasa saya gunakan:
 
 ---
 
-### 📊 GitHub Stats
 
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chellmnrg&show_icons=true&theme=midnight-purple&hide_border=true)
-
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=chellmnrg&theme=midnight-purple&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chellmnrg&layout=compact&theme=midnight-purple&hide_border=true)
 
 <p align="center">Thanks for visiting! Feel free to connect.</p>
