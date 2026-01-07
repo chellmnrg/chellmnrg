@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Full Stack Developer</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/[username-linkedin]">
+  <a href="https://www.linkedin.com/in/marchell-manurung/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:[ramotmanurung424@gmail.com]">
