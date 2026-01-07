@@ -24,8 +24,6 @@ Saya adalah seorang **Junior Full Stack Developer** yang berfokus pada pengemban
 
 ### 🛠️ Tech Stack
 
-Berikut adalah teknologi dan tools yang biasa saya gunakan:
-
 **Backend & Database:**
 <p>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
@@ -49,6 +47,16 @@ Berikut adalah teknologi dan tools yang biasa saya gunakan:
 
 ---
 
+### 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chellmnrg&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true" alt="GitHub Stats" />
+  
+  <img src="https://github-readme-streak-stats.demolab.com/?user=chellmnrg&theme=midnight-purple&hide_border=true" alt="Streak Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chellmnrg&layout=compact&theme=midnight-purple&hide_border=true" alt="Top Languages" />
+</p>
 
 <p align="center">Thanks for visiting! Feel free to connect.</p>
