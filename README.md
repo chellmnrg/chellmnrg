@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Marchell Manurung</h1>
-<h3 align="center">Junior Full Stack Developer </h3>
+<h3 align="center">Junior Full Stack Developer</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/marchell-manurung/" target="_blank">
@@ -8,6 +8,7 @@
   <a href="mailto:ramotmanurung424@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" />
   </a>
+  <img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
 </p>
 
 ---
@@ -26,6 +27,8 @@ Saya terbiasa bekerja dengan **backend, frontend, serta database**, dan senang m
 
 ## 🛠️ Tech Stack
 
+<div align="center">
+
 ### 🔹 Backend & Database
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
@@ -41,12 +44,23 @@ Saya terbiasa bekerja dengan **backend, frontend, serta database**, dan senang m
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Marchell's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</div>
+
 ---
 
 ## 📌 What I’m Working On
-- Web Application Development using **.NET & SQL Server**
-- Improving clean code & design pattern implementation
-- Exploring REST API & backend optimization
+- 💻 Web Application Development using **.NET & SQL Server**
+- 🧹 Improving clean code & design pattern implementation
+- 🚀 Exploring REST API & backend optimization
 
 ---
 
