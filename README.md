@@ -8,7 +8,7 @@
   <a href="mailto:ramotmanurung424@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=chellmnrg&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
 </p>
 
 ---
