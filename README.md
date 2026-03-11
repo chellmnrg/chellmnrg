@@ -51,8 +51,8 @@ Saya terbiasa bekerja dengan **backend, frontend, serta database**, dan senang m
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Marchell's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=chellmnrg&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Marchell's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chellmnrg&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
